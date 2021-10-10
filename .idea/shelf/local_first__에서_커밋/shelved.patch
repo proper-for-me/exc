@@ -1,0 +1,35 @@
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Encoding\">\r\n    <file url=\"file://$PROJECT_DIR$/a-1.txt\" charset=\"x-windows-949\" />\r\n    <file url=\"file://$PROJECT_DIR$/a.txt\" charset=\"x-windows-949\" />\r\n    <file url=\"file://$PROJECT_DIR$/ab1.txt\" charset=\"x-windows-949\" />\r\n    <file url=\"file://$PROJECT_DIR$/push_first.txt\" charset=\"x-windows-949\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+--- a/.idea/encodings.xml	(revision 624052332c98b8aaa6af8bd203f7d5110816883a)
++++ b/.idea/encodings.xml	(date 1633868599196)
+@@ -4,6 +4,7 @@
+     <file url="file://$PROJECT_DIR$/a-1.txt" charset="x-windows-949" />
+     <file url="file://$PROJECT_DIR$/a.txt" charset="x-windows-949" />
+     <file url="file://$PROJECT_DIR$/ab1.txt" charset="x-windows-949" />
++    <file url="file://$PROJECT_DIR$/local_second2_1.txt" charset="x-windows-949" />
+     <file url="file://$PROJECT_DIR$/push_first.txt" charset="x-windows-949" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: local_second2_1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>        1개 파일이 복사되었습니다.\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>x-windows-949
+===================================================================
+diff --git a/local_second2_1.txt b/local_second2_1.txt
+--- a/local_second2_1.txt	(revision 624052332c98b8aaa6af8bd203f7d5110816883a)
++++ b/local_second2_1.txt	(date 1633868599129)
+@@ -1,1 +1,4 @@
+         1개 파일이 복사되었습니다.
++
++
++로컬에서 커밋만 함 .
+\ No newline at end of file
