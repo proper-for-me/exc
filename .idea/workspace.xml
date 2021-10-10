@@ -41,7 +41,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633866873948</updated>
-      <workItem from="1633866875669" duration="2389000" />
+      <workItem from="1633866875669" duration="7530000" />
     </task>
     <task id="LOCAL-00001" summary="dev _ 작업 1 번">
       <created>1633867481832</created>
