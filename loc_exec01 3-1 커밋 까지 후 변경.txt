@@ -1,0 +1,19 @@
+        1개 파일이 복사되었습니다.
+# 현재 상태 :
+git branch -a -vv
+* dev                    e1e53c7 [origin/dev] imi  FILE SAve
+  loc_exec01             f4b484e [origin/dev: ahead 2] 3-1 커밋 시도
+  remotes/origin/HEAD    -> origin/dev
+  remotes/origin/dev     e1e53c7 imi  FILE SAve
+  remotes/origin/feature 848b061 secon init c-1-2
+
+
+git branch '브랜치명' 이렇게 하면 로컬 브랜치 참조 하는 브랜치(show  e1e53c7 imi  FILE SAve)가 따지네!!
+# git branch show
+C:\dev\work\exc>git branch -a -vv
+* dev                    e1e53c7 [origin/dev] imi  FILE SAve
+  loc_exec01             f4b484e [origin/dev: ahead 2] 3-1 커밋 시도
+  show                   e1e53c7 imi  FILE SAve
+  remotes/origin/HEAD    -> origin/dev
+  remotes/origin/dev     e1e53c7 imi  FILE SAve
+  remotes/origin/feature 848b061 secon init c-1-2
