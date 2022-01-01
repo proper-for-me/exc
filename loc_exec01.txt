@@ -1,0 +1,12 @@
+로컬 브렌치 loc_exec01
+git checkout -b loc_exec01     origin/dev
+                로컬 브랜치명,   추적 서버 브랜치
+-- 이렇게 로컬 브랜치가 따지고 원격 브랜치가 추적이 됨
+
+C:\dev\work\exc>git br -vv
+  dev        e1e53c7 [origin/dev] imi  FILE SAve
+* loc_exec01 e1e53c7 [origin/dev] imi  FILE SAve
+
+git br -a
+
+2.1 커밋 버전 올리기위해 추가 2111111
