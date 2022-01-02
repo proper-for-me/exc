@@ -8,3 +8,10 @@ loc_exec01 을 dev에 머지 한 후에 이전 브랜치 작업해 보기
 
 
 origin dev => loc_dev_02
+loc_dev_02 로컬 작업 만들기 1
+
+loc_dev_02 로컬 작업 만들기 2
+
+loc_dev_02 로컬 작업 만들기 3
+
+loc_dev_02 로컬 작업 만들기 4
