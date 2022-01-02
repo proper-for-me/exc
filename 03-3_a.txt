@@ -11,6 +11,8 @@ loc_dev 작업 커밋
 
 
 
+이전에 작업한 것을 devㅇㅔ 머지 하기 위해 커밋 생성 loc_dev -> dev 1
+
 
 origin dev => loc_dev_02
 loc_dev_02 로컬 작업 만들기 1
