@@ -2,6 +2,3 @@
 ref_ref_dev 에서 파일 변경되면 어떻게 되지
 loc_exec01 을 dev에 머지 한 후에 이전 브랜치 작업해 보기
 999999999999999999
-
-Merge branch 'dev' of https://github.com/proper-for-me/exc into loc_dev dreamorbit 2 minutes ago 666777cb
-loc_dev 작업 커밋
