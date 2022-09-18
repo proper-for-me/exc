@@ -1,0 +1,18 @@
+function awaitFunction() { 
+	return new Promise((resolve, reject) => { 
+			setTimeout(() => resolve('success'), 1000); 
+		 // setTimeout(() => reject('fail'), 1000); 
+			}); 
+		 } 
+		 
+async function asyncFunction() { 
+	try { 
+			const msg = await awaitFunction(); 
+			console.log(msg); 
+		// awaitFunction에서 resolve가 호출 될 때 resolve의 인자값 'success' 
+		} catch (e) { 
+			console.log(e); // awaitFunction에서 reject가 호출 될 때 reject의 인자값 'fail'
+		} 
+} 
+		
+	asyncFunction();

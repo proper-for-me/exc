@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a096c6d2-f890-47aa-869a-9d6284fbd922" name="Default Changelist" comment="" />
+    <list default="true" id="a096c6d2-f890-47aa-869a-9d6284fbd922" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/local_first___.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/local_first___.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc1" beforeDir="false" afterPath="$PROJECT_DIR$/abc1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +69,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633866873948</updated>
-      <workItem from="1633866875669" duration="7530000" />
+      <workItem from="1633866875669" duration="8581000" />
+      <workItem from="1635917496936" duration="102000" />
+      <workItem from="1636196450532" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="dev _ 작업 1 번">
       <created>1633867481832</created>
@@ -133,6 +139,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
