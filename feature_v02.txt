@@ -1,1 +1,2 @@
 2022-09-18 1446 feature_v02.txt
+feature_v02 1번 커밋
